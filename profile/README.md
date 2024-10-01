@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="300" alt="0xzero.org" />
+</p>
+
 # ZERO Labs
 
 ## Who we are
