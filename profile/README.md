@@ -1,6 +1,15 @@
 <p align="center">
   <img src="../assets/logo-banner.png" width="300" alt="0xzero.org" />
 </p>
+<div align="center">
+
+[![Chat on Twitter][ico-twitter]][link-twitter]
+
+</div>
+
+[ico-twitter]: https://img.shields.io/twitter/url?color=black&label=PrivadoID&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2F0xZeroOrg 
+
+[link-twitter]: https://x.com/0xZeroOrg 
 
 # ZERO Labs
 
