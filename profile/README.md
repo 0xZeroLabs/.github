@@ -9,9 +9,7 @@
 
 [ico-twitter]: https://img.shields.io/twitter/url?color=black&label=0xZeroOrg&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2F0xZeroOrg 
 
-[link-twitter]: https://x.com/0xZeroOrg 
-
-# ZERO Labs
+[link-twitter]: https://x.com/0xZeroOrg
 
 ## About us
 
