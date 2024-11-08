@@ -17,7 +17,7 @@ We're a startup committed to solving the intricate challenges that hinder self-s
 
 ## Our initiatives
 
-### S3N Protocol
+### <a href="https://github.com/0xZeroLabs/s3n">S3N Protocol</a>
 
 <img src="../assets/s3network.png" height="128" alt="s3n.xyz" align="left" />
 
