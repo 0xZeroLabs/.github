@@ -19,7 +19,7 @@ We're a startup committed to solving the intricate challenges that hinder self-s
 
 ### <a href="https://github.com/0xZeroLabs/s3n">S3N Protocol</a>
 
-<img src="../assets/s3network.png" height="128" alt="s3n.xyz" align="left" />
+<img src="../assets/s3n-social.jpg" height="128" alt="s3n.xyz" align="left" />
 
 S3N is a decentralised self-sovereign identity solution that enables permissionless issuance, verifiable provenance, and trustless verification of credentials.
 
