@@ -13,7 +13,7 @@
 
 ## About us
 
-We're a startup committed to solving the intricate challenges that hinder self-sovereignty. Our goal is to simplify the process of empowering individuals with control over their data, thereby safeguarding their privacy. Founded in Nigeria, we're dedicated to tackling global challenges and are collaborating with teams internationally to achieve the collective goal of empowering digital freedom.
+We're a startup committed to solving the intricate challenges that hinder self-sovereignty. Our goal is to simplify the process of empowering individuals with control over their data, thereby safeguarding their privacy and empowering digital freedom.
 
 ## Our initiatives
 
