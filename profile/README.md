@@ -17,10 +17,14 @@ We're a startup committed to solving the intricate challenges that hinder self-s
 
 ## Our initiatives
 
-<img src="../assets/s3n-social.jpg" height="128" alt="s3n.xyz" align="left" />
+<img src="../assets/s3n-social.jpg" height="100" alt="s3n.xyz" align="left" />
 
 ### <a href="https://github.com/0xZeroLabs/s3n">S3N Protocol</a>
 
 S3N is a decentralised self-sovereign identity solution that enables permissionless issuance, verifiable provenance, and trustless verification of credentials.
 
-It integrates a trusted notaries AVS called Core, on EigenLayer as a secure replacement for signing credentials, thereby enabling an open ecosystem for secure identity without the explicit need for issuer permission.
+<img src="https://github.com/0xZeroLabs/the-forge/raw/main/assets/medieval-100.png" height="100" alt="s3n.xyz" align="left" />
+
+### <a href="https://github.com/0xZeroLabs/the-forge">The Forge</a>
+
+The Forge is an AVS built on EigenLayer through the Othentic stack, designed to verifiably register any IP on Story Protocol with access to the unlimited IP of the internet.
