@@ -23,7 +23,7 @@ We're a startup committed to solving the intricate challenges that hinder self-s
 
 S3N is a decentralised self-sovereign identity solution that enables permissionless issuance, verifiable provenance, and trustless verification of credentials.
 
-<img src="https://github.com/0xZeroLabs/the-forge/raw/main/assets/medieval-100.png" height="100" alt="s3n.xyz" align="left" />
+<img src="https://github.com/0xZeroLabs/the-forge/blob/main/assets/20250120_084706.png?raw=true" height="100" alt="s3n.xyz" align="left" />
 
 ### <a href="https://github.com/0xZeroLabs/the-forge">The Forge</a>
 
